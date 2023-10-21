@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Cream+Soda&display=swap');
+
+
+body{
+    background-color: #f0fbf2;
+}
+h1{
+    font-family: 'Cherry Cream Soda';
+    color: #1B4332;
+    text-align: center;
+    font-size: 50px;
+
+}
+.iframe2{
+    border: 2px solid gray;
+    padding: 20px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
